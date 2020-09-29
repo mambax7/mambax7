@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mambax7" alt="mambax7" /> </p>
 
-- 🔭 I’m currently working on [XOOPS Project](http://github.com/XOOPS)
+### You can nominate me at https://stars.github.com/ as a **GitHub Star**.
+
+- 🔭 I’m currently contributing to [XOOPS Project](http://github.com/XOOPS)
 
 - 🌱 I’m currently learning **PHPUnit and advanced testing**
 
