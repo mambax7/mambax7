@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHPUnit and advanced testing**
 
-- 💬 Ask me about **XOOPS**
+- 💬 Ask me about **[XOOPS](http://github.com/XOOPS)**
 
 ---------
 
@@ -20,3 +20,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mambax7&show_icons=true" alt="mambax7" /></p>
 
+--------
+
+<a target="_blank" href="https://www.paypal.com/donate/?cmd=_donations&business=sales@midwestlatino.com&currency_code=USD&source=url&item_name=Donate:+Supporting+my+open+source+activities+GitHub.com/mambax7&item_number=GitHub,+Inc">
+<img width="185" src="https://raw.githubusercontent.com/BaseMax/BaseMax/master/paypal.png"> <img src="https://raw.githubusercontent.com/BaseMax/BaseMax/master/donate.gif">
+</a>
+
+**Feel free to donate to support Open Source!** 
