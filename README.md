@@ -30,6 +30,9 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mambax7&border_radius=0&icon_color=0aa&bg_color=000&text_color=ccc&title_color=FCE928&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true)
+
+Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mambax7&layout=compact&hide=HTML,CSS&bg_color=000&title_color=FCE928&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&text_color=fff&langs_count=8&border_radius=0&exclude_repo=bert-named-entity-recognition)
 
 ![Commits](https://activity-graph.herokuapp.com/graph?username=mambax7&bg_color=000&color=FCE928&line=0aa&point=fff&area=true&hide_border=true)
